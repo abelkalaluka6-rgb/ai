@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aak.com.zm/sitemap.xml
